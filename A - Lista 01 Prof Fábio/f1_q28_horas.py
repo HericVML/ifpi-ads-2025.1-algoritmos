@@ -9,5 +9,5 @@ dias = horas_sem // 24
 horas_dia = horas_sem % 24
 
 # Saída
-resultado = f'{horas}h equivalem a {semanas} semana(s), {dias} dias e {horas_dia}h.'
+resultado = f'{horas}h equivalem a {semanas} semana(s), {dias} dia(s) e {horas_dia} hora(s).'
 print(resultado)
